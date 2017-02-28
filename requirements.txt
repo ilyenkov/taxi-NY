@@ -3,4 +3,3 @@ pandas==0.19.2
 seaborn==0.7.1
 matplotlib==1.5.3
 ipywidgets==5.2.2
-dateutil==1.5

@@ -3,5 +3,3 @@ pandas
 seaborn
 matplotlib
 ipywidgets
-mpltoolkits.basemap
--U

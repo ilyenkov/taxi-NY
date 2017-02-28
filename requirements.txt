@@ -4,5 +4,3 @@ seaborn==0.7.1
 matplotlib==1.5.3
 ipywidgets==5.2.2
 python-dateutil==1.5
-gunicorn==19.6.0
-heroku==0.1.4

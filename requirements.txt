@@ -2,5 +2,6 @@ numpy
 pandas
 seaborn
 matplotlib
-ipywidgets
-python-dateutil
+ipywidgets==5.2.2
+python-dateutil==1.5
+mpl_toolkits
